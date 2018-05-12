@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '31876'
     url: http://www.gutenberg.org/2009/agents/31876
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32742#The-Auto-Boys-Mystery
 gutenberg_issued: '2010-06-08'
 gutenberg_type: Text
 identifiers:
